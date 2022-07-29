@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ClaudioAlex186
-- 👀 I’m interested in dogs
+- 👀 I’m interested in stuff
 - 🌱 I’m currently learning web devolopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
