@@ -1,9 +1,12 @@
+## Olá eu sou o Cláudio
+
 - 👋 Hi, I’m @ClaudioAlex186
-- 👀 I’m interested in stuff
-- 🌱 I’m currently relearning web devolopment ig
-- 💞️ I’m looking to collaborate with Leonardo on the Max game?
+- 🌱 I’m currently studying on ESTG IPL
 - 📫 How to reach me Clode#2428
 
-<h1>Bruh </h1>
 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/781869463129819080/4ECAA005657408CAA2F41F15ABA36CBA04A18E5A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioAlex186&count_private=true&show_icons=true&theme=tokyonight)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAlex186&count_private&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+  <img width="20%" src="https://c.tenor.com/y4Ie8h0H-TwAAAAC/cat-typing.gif">
