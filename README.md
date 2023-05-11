@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioAlex186&count_private=true&show_icons=true&theme=tokyonight)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAlex186&count_private=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAlex186&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
   <img width="20%" src="https://c.tenor.com/y4Ie8h0H-TwAAAAC/cat-typing.gif">
   
